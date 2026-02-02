@@ -1,2 +1,2 @@
 # try-hack-me-writeups
-This will include the room, target, skills, tools etc
+This repository contains my personal notes from the rooms that I've completed on TryHackMe.
